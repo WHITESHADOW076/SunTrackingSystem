@@ -42,7 +42,7 @@ We invite engineers, programmers, data scientists, and renewable energy enthusia
 
 Feel free to reach out to us through issues, discussions, and pull requests. Let's innovate and create a more sustainable world, one sunbeam at a time.
 
-🔗 **Repository Link:** [Sun Tracking Solar System](link_to_your_repository)
+🔗 **Repository Link:** [Sun Tracking Solar System](https://github.com/WHITESHADOW076/SunTrackingSystem)
 
 Let's harness the full potential of the sun and illuminate a cleaner and brighter tomorrow!
 
