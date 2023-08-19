@@ -6,11 +6,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/3cb563a6-24ed-413f-8227-5ca8b34c8e01.PNG" alt="project-screenshot" width="1280" height="720/">
+<p align="center"><img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/3cb563a6-24ed-413f-8227-5ca8b34c8e01.PNG" alt="project-screenshot" width="1280" height="720/"></p>
 
-<img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/12345_v1_2023-Aug-17_03-49-15PM-000_CustomizedView29640560776.png" alt="project-screenshot" width="1280" height="720/">
+<p align="center"><img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/12345_v1_2023-Aug-17_03-49-15PM-000_CustomizedView29640560776.png" alt="project-screenshot" width="1280" height="720/"></p>
 
-<img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/12345_v1_2023-Aug-18_09-52-06AM-000_CustomizedView4506324693.png" alt="project-screenshot" width="1280" height="720/">
+<p align="center"><img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/12345_v1_2023-Aug-18_09-52-06AM-000_CustomizedView4506324693.png" alt="project-screenshot" width="1280" height="720/"></p>
 
   
   
@@ -26,7 +26,7 @@
 
 - **Open-Source Philosophy:** This repository embodies the spirit of collaboration and knowledge sharing. We believe in open-source principles, allowing developers, researchers, and enthusiasts to contribute, learn, and innovate collectively.
 
-**Contents:**
+<h2>Contents:</h2>
 
 - **Hardware Designs:** Detailed schematics, CAD files, and blueprints for building the sun tracking mechanism and sensor integration.
   
@@ -36,13 +36,13 @@
   
 - **Contributor Guidelines:** If you're passionate about renewable energy and technology, join our community! Find out how you can contribute to the project and be a part of the sustainable energy revolution.
 
-**Get Involved:**
+<h2>Get Involved:</h2>
 
 We invite engineers, programmers, data scientists, and renewable energy enthusiasts to explore, contribute, and collaborate. Let's work together to shape a greener future with the power of the Sun Tracking Solar System.
 
 Feel free to reach out to us through issues, discussions, and pull requests. Let's innovate and create a more sustainable world, one sunbeam at a time.
 
-🔗 **Repository Link:** [Sun Tracking Solar System](https://github.com/WHITESHADOW076/SunTrackingSystem)
+🔗 <h2>Repository Link:</h2> [Sun Tracking Solar System](https://github.com/WHITESHADOW076/SunTrackingSystem)
 
 Let's harness the full potential of the sun and illuminate a cleaner and brighter tomorrow!
 
