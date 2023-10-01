@@ -1,0 +1,48 @@
+#include <Servo.h>
+
+// Define the analog input pins for the two photoresistors
+const int photoresistorPin1 = A0; // Connect one photoresistor to analog pin A0
+const int photoresistorPin2 = A1; // Connect the other photoresistor to analog pin A1
+
+// Create a Servo object
+Servo servo;
+
+void setup() {
+  // Initialize the servo
+  servo.attach(9); // Connect the servo signal wire to digital pin 9
+
+  // Set the initial position of the servo (you may need to adjust this)
+  servo.write(90); // Starts at 90 degrees (horizontal position)
+
+  // You can also set the analog pins as inputs if not done already
+  pinMode(photoresistorPin1, INPUT);
+  pinMode(photoresistorPin2, INPUT);
+}
+
+void loop() {
+  // Read the values from the photoresistors
+  int lightLevel1 = analogRead(photoresistorPin1);
+  int lightLevel2 = analogRead(photoresistorPin2);
+
+  // Calculate the difference between the two light levels
+  int lightDifference = lightLevel1 - lightLevel2;
+
+  // Set a threshold for the difference (adjust as needed)
+  int threshold = 50;
+
+  // If the difference exceeds the threshold, adjust the servo position
+  if (abs(lightDifference) > threshold) {
+    if (lightDifference > 0) {
+      // If light is stronger on the left, move the servo to the left
+      servo.write(servo.read() - 3); // Decrease servo angle faster
+      delay(50); // Delay for faster tracking
+    } else {
+      // If light is stronger on the right, move the servo to the right
+      servo.write(servo.read() + 3); // Increase servo angle faster
+      delay(50); // Delay for faster tracking
+    }
+  } else {
+    // If the difference is below the threshold, slow down tracking
+    delay(100); // Delay for slower tracking
+  }
+}
