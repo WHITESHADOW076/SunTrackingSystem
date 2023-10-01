@@ -14,7 +14,7 @@
 
   
   
-<h2>🧐 Key Features:</h2>
+<h2>Key Features:</h2>
 
 - **Solar Panel Optimization:** Our project focuses on dynamically aligning solar panels with the sun's position throughout the day. By utilizing real-time data and precision mechanics, we ensure that solar panels are positioned optimally for maximum energy absorption.
 
