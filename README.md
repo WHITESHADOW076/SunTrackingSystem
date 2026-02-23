@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Sun Tracking Solar System</h1>
+<h1 align="center" id="title">Solar Tracking System Simulation And Analysis using MATLAB</h1>
 
 <p align="center"><img src="https://github.com/WHITESHADOW076/SunTrackingSystem/blob/180a5ed68c813ef81d424678a062f3f1c3dd6f2e/12345_v1_2023-Aug-18_09-52-06AM-000_CustomizedView4506324693.png" alt="project-image"></p>
 
